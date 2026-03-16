@@ -9,7 +9,7 @@
 
 2. Description
 
-1–2 sentences:
+SaT is a kind of LIM (Local Inference Model) that transforms unstructured, and even noisy/messy inputs in to a schema-alinged output.
 
 what it is
 
